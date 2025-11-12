@@ -114,7 +114,7 @@ This path is for you if:
 
 1. **Gather your materials**: You'll need:
    - A topic-specific JSON file with stories from `data/stardem_topics/`
-   - Entity-enriched stories (from your previous work or create them now)
+   - Entity-enriched stories (you may want to add them to another topic that is related, and then include those stories)
 
 2. **Create a beat book generation script**:
 ```bash
